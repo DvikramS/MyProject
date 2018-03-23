@@ -1,0 +1,1 @@
+Java -cp bin;WebDriverJars\* org.testng.TestNG testng.xml
