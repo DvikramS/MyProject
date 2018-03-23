@@ -16,6 +16,7 @@ public class LoginPage {
 		List<WebElement> l=Base.driver.findElements(By.xpath(".//*[@id='gi_class']//option"));
 		for(WebElement l1:l){
 			System.out.println(l1.getText());
+			System.out.println(l1.getText());
 			
 			
 		}
