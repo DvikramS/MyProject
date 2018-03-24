@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [TestSelenium]]">
+  <test name="Test(failed)(failed)">
+    <classes>
+      <class name="TestCases.Logintest">
+        <methods>
+          <include name="testLogin" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- TestCases.Logintest -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [TestSelenium]] -->
