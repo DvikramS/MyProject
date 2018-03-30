@@ -15,7 +15,7 @@ public class LoginPage {
 		Base.driver.findElement(By.xpath("fff")).sendKeys("test");
 		List<WebElement> l=Base.driver.findElements(By.xpath("cdcd"));
 		for(WebElement l1:l){
-			System.out.println(l1.getText());
+			System.out.println(l1.getText());//jjyujyu
 		
 			
 			
